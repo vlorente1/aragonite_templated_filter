@@ -1,4 +1,4 @@
-connection: "clarity_data_sandbox"
+connection: "data_sandbox"
 
 include: "/views/*.view.lkml"
 include: "/views/**/*"
